@@ -1,0 +1,25 @@
+<!-- 
+cross the line
+http://jivebs.deviantart.com/
+
+covergloobus skin with covers, :D
+seekbar images are from Simple by Mustapha Asbbar, http://alezzacreative.deviantart.com
+
+feel free to share
+-->
+
+
+<skin name="ecgblack trans" width="380" height="170">
+ <albumcover   				x="207" y="0" width="61" height="61"/>     
+  <titlename 	x="150" y="70" width="179" maxchars="28" align="center" font="Raleway Normal 14" color="#ffffffFF" />     
+  <artistname 	x="150" y="100" width="179" maxchars="28" align="center" font="Raleway 9" color="#ffffffFF" />
+
+  <playercontrols spacing="2" x="120" y="298">
+     <prev 			x="200"  y="120" src="media-seek-backward.svg" width="10" height="10"/>
+     <play		 	x="235" y="120" src="media-playback-start.svg" pause="media-playback-pause.svg" width="10" height="10"/>
+	 <next 			x="270" y="120" src="media-seek-forward.svg" width="10" height="10"/>
+  </playercontrols>
+  <seekbar x="90" y="96" width="300" height="1" back="seekbar.back.png" top="seekbar.top.png">
+  </seekbar>
+
+</skin>

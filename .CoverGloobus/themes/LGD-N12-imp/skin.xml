@@ -1,0 +1,26 @@
+<skin name="LGD-N12-imp" width="410" height="108">
+
+   <image src="nocover.png" x="23" y="14"  width="70" height="70"/>     
+   <albumcover x="23" y="14" width="70" height="70"/>
+   <image src="case.png" x="0" y="0"  width="410" height="108"/>
+
+        <artistname	x="156"	y="14"	width="150" maxchars="30" font="pftempestafivecondensed 6" color="#ffffffFF" shadowcolor="#000000ff" shadow_x="1" shadow_y="1" scroll="true"/> 
+        <titlename	x="156"	y="22"  width="150" maxchars="30" font="pftempestafivecondensed 6" color="#ffffffFF" shadowcolor="#000000ff" shadow_x="1" shadow_y="1" scroll="true"/>
+	<albumname	x="156"	y="30"	width="150" maxchars="30" font="pftempestafivecondensed 6" color="#ffffffFF" shadowcolor="#000000ff" shadow_x="1" shadow_y="1" scroll="true"/>
+	
+      <time 	x="329" y="14" width="28" maxchars="5" font="pftempestafivecondensed 6" color="#ffffffFF" shadowcolor="#000000ff"/>
+      <length 	x="357" y="14" width="28" maxchars="5" font="pftempestafivecondensed 6" color="#FF8D00FF" shadowcolor="#000000ff"/>
+     
+      <seekbar  x="97" y="64" width="50" height="4" back="bar.png">
+      <thumb    src="grip.png" width="8"  height="4" left="0" top="0" bottom="0" right="0" />
+      </seekbar>
+
+<playercontrols spacing="0" x="0" y="0">
+	<prev 	x="97"	y="20"	src="prev.png" hover="prev_prev.png"/> 
+	<play	x="116" y="20"	src="play.png" hover="play_prev.png" pause="pause.png" pause_hover="pause_prev.png"/> 
+	<next 	x="133" y="20"	src="next.png" hover="next_prev.png"/> 
+</playercontrols>
+
+        <rating x="105" y="74" width="7" height="8" spacing = "0" star="star.png" nostar="nostar.png" hover="hover.png"/>
+
+</skin>

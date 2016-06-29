@@ -1,0 +1,23 @@
+<skin name="Mini Itunes by DG09" width="324" height="78">
+<image src="CASE.png"  x="0"   y="0"  width="324"  height="78"/>
+<titlename x="170" y="16"  width="105" align="center" maxchars="50" font="iTunes Bold 8" color="#4D4F44ff"  scroll="no" />  
+<albumname x="169"  y="28" width="110" maxchars="30" align="center" font="iTunes  9" color="#4D4F44ff" scroll="true" wrap="yes"/>
+
+
+<time 	x="146" y="45" width="30" maxchars="10" align="left" font="LucidaGrande 7" 	color="#4D4F44FF" shadowcolor="#000000FF" scroll="false"/>
+<length x="275"  y="45"  width="32" align="left" maxchars="10" font="LucidaGrande 7" color="#4D4F44FF" shadowcolor="#000000FF" scroll="false" />
+<playercontrols spacing="0"   x="50" y="50">
+<play		 	x="61" y="17" src="ICONS/play.png" hover="ICONS/play1.png" pause="ICONS/pause.png" pause_hover="ICONS/pause1.png"/> 
+<prev 			x="32" y="19" src="ICONS/prev.png" hover="ICONS/prev1.png"/> 
+<next 			x="94" y="19" src="ICONS/next.png" hover="ICONS/next1.png"/> 
+</playercontrols>  
+
+
+
+<seekbar x="171" y="47" width="99" height="7" back="PROGRESSBAR/back.png" top="PROGRESSBAR/fill.png"><thumb src="PROGRESSBAR/knob.png" width="9" height="7" left="0" top="0" bottom="0"/>
+</seekbar>
+
+</skin>
+
+
+

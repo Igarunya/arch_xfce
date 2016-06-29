@@ -1,0 +1,20 @@
+<skin name="MCF" width="300" height="52">
+
+
+  
+  
+  <image src="CASE.png" 	x="0" y="0"  width="300" height="52"/> 
+  <albumcover 			x="222" y="6" width="32" height="32" round="1" /> 
+
+<rating x="146" y="22" width="12" height="12" spacing = "-2" star="star.png" nostar="nostar.png" hover="star_hover.png"/>
+
+  <titlename 	x="58" y="10" width="230" maxchars="17" align="center" font="Basic5 6" color="#ffffffFF" shadowcolor="#000000ff" />     
+ 
+  <playercontrols spacing="0" x="106" y="298">
+     <prev 			x="70"  y="17" src="prev1.png" hover="prev.png"/> 
+	<play		 	x="90" y="17" src="play1.png" hover="play.png" pause="pause1.png" pause_hover="pause.png"/> 
+	 <next 			x="106" y="17"	src="next1.png" hover="next.png"/> 
+  </playercontrols>
+  
+</skin>
+

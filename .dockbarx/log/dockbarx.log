@@ -1,0 +1,8 @@
+INFO	| 2016-06-29 17:20:10,912	| DockbarX 0.92
+INFO	| 2016-06-29 17:20:10,912	| DockbarX init
+INFO	| 2016-06-29 17:20:11,148	| DockbarX reload
+DEBUG	| 2016-06-29 17:20:29,477	| Removing launcher: firefox
+INFO	| 2016-06-29 17:21:01,949	| Executing: exo-open --launch TerminalEmulator
+INFO	| 2016-06-29 17:21:16,771	| Executing: thunar 
+INFO	| 2016-06-29 17:22:13,199	| Executing: exo-open --launch TerminalEmulator
+INFO	| 2016-06-29 17:23:13,995	| Executing: thunar 

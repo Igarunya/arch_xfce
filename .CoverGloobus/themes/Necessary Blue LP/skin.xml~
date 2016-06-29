@@ -1,0 +1,19 @@
+<skin name="Click" width="240" height="114">
+
+  <image  src="case.png" 	x="13" y="40"  width="230" height="17"  />  
+  <titlename x="15" y="13" width="150" align="left" maxchars="40" font="ubuntu  Bold 8" color="#FFFFFFFF" shadowcolor="#000000ff" scroll="true"/>
+  <artistname x="15" y="26" width="150" align="left" maxchars="30" font="ubuntu  regular 7" color="#FFFFFFFF" shadowcolor="#000000ff" scroll="true"/>
+
+  <playercontrols spacing="31" x="0" y="0">
+     <prev 			x="15" y="60" src="prev.png" hover="prev1.png"/> 
+     <play		 	x="32" y="60" src="play.png" hover="play1.png" pause="pause.png" pause_hover="pause1.png"/> 
+     <next 			x="49" y="60"	src="next.png" hover="next1.png"/> 
+  </playercontrols>
+
+  <seekbar x="17" y="40" width="226" height="17" back="back.png" top="fill.png">
+   	<thumb src="cap.png" width="5" height="17" left="0" top="0" bottom="0" right="-1" />
+ </seekbar>
+
+  
+</skin>
+

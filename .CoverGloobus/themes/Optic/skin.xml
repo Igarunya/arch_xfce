@@ -1,0 +1,13 @@
+<!-- Ported to Linux Covergloobus by deusnova (http://liliumcruentus.deviantart.com), original CAD skin by murasaki55 -->
+<skin name="Optic" width="280" height="100">
+
+
+  <albumcover x="25" y="16" width="64" height="64"/>
+  <image src="case.png" x="3" y="-2" width="280" height="100"/> 
+  
+  <titlename 	x="120" y="25" width="230" maxchars="23" font="Segoe UI Semibold 8" color="#cbc6aeFF" shadowcolor="#000000ff" />     
+  <artistname 	x="120" y="40" width="230" maxchars="23" font="Segoe UI 8"	color="#cbc6aeFF" shadowcolor="#000000ff" />
+  <albumname 	x="120" y="54" width="230" maxchars="23" font="Segoe UI 8" 	color="#cbc6aeFF"  shadowcolor="#000000ff"/>
+
+</skin>
+

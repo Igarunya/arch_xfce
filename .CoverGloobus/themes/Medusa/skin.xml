@@ -1,0 +1,12 @@
+<skin name="Medusa" width="520" height="540">
+
+
+  <albumcover x="208" y="230" width="64" height="64"/>
+  <image src="case.png" x="3" y="-2" width="520" height="540"/> 
+  
+  <titlename 	x="124" y="317" width="230" maxchars="35" font="Segoe UI Semibold 8" align="center" color="#cbc6aeFF" shadowcolor="#000000ff" />     
+  <artistname 	x="124" y="332" width="230" maxchars="38" font="Segoe UI 8" align="center" color="#cbc6aeFF" shadowcolor="#000000ff" />
+  <albumname 	x="124" y="347" width="230" maxchars="38" font="Segoe UI 8" align="center" color="#cbc6aeFF"  shadowcolor="#000000ff"/>
+
+</skin>
+

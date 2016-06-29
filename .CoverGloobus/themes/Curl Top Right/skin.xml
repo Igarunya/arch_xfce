@@ -1,0 +1,13 @@
+<skin name="Curl for Coovergloobus by Theconso [theconso.deviantart.com] " width="100" height="100">
+
+<image src="nocover.png" x="18" y="0" width="83" height="83" mask="mask_tr.png" />
+<image src="nocover.png" x="18" y="0" width="83" height="83" mask="mask_tr.png" />
+<albumcover x="18" y="0" width="83" height="83" round="0"  mask="mask_tr.png"/>
+	
+<image src="overlay_tr.png" x="0" y="0" width="100" height="100" />	
+
+
+
+
+ 
+</skin>

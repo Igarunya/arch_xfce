@@ -1,0 +1,17 @@
+<!-- 
+Musiq for covergloobus - porting by Iacoporosso -
+-->
+<skin name="Musiq by Iacoporosso " width="200" height="150">
+
+  <image src="case.png" 	x="0" y="0"  width="200" height="150"/> 
+  <albumcover   		x="30" y="25" width="100" height="100"/>
+  <image src="overlay.png" 	x="0" y="0"  width="200" height="150"/>
+
+<playercontrols spacing="0" x="10" y="10">
+     <prev 			x="134"  y="37" src="prev.png" hover="prev1.png"/> 
+	<play		 	x="134" y="67" src="play.png" hover="play1.png" pause="pause.png" pause_hover="pause1.png"/> 
+	 <next 			x="134" y="97"	src="next.png" hover="next1.png"/> 
+  </playercontrols>
+  
+</skin>
+
